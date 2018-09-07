@@ -1,5 +1,5 @@
 # MATA48 - Arquitetura de Computadores
-	Simulador MIPS em C
+###### Simulador MIPS em C
 
 ## **Informações Gerais**
 
